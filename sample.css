@@ -13,3 +13,17 @@ para1{
     background-color: aqua;
     color: #000;
 }
+div{
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(218, 179, 26);
+    margin-left:  20px;
+    margin-top: 30px;
+    padding-left: 300px;
+    padding-top: 20px;
+    border: 5px solid;
+}
+.wh{
+    color: rgb(6, 8, 10);
+    background-color: rgb(218, 179, 26)
+}
