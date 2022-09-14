@@ -28,17 +28,23 @@ para1{
     background-color: rgb(218, 179, 26)
 }
 .la{
-    background-color: aqua;
-    width: 100px;
-    height: 100px;
-}
-.out{
-    background-color: tomato;
+    border: solid 10px;
+    border-color: rgb(235, 12, 12);
+    background-color: rgb(55, 206, 18);
+    color: blue;
     width: 300px;
     height: 200px;
-    margin: 100;
 }
+
 .box{
-    margin-left: 100px;
+   margin-left: 100px;
     margin-right: 100px;
+    padding: 50px;
+}
+.inn{
+    margin: 10px;
+    background-color: rgb(224, 12, 231);
+    width: 200px;
+    height: 100px;
+ 
 }
