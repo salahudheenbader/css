@@ -13,7 +13,7 @@ para1{
     background-color: aqua;
     color: #000;
 }
-div{
+.la{
     width: 1000px;
     height: 100px;
     background-color: rgb(218, 179, 26);
@@ -26,4 +26,19 @@ div{
 .wh{
     color: rgb(6, 8, 10);
     background-color: rgb(218, 179, 26)
+}
+.la{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}
+.out{
+    background-color: tomato;
+    width: 300px;
+    height: 200px;
+    margin: 100;
+}
+.box{
+    margin-left: 100px;
+    margin-right: 100px;
 }
